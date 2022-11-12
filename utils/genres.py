@@ -27,7 +27,7 @@ genre_wordsets = dict([
     ['comedy', 'slapstick', 'satire', 'parody', 'tragicomedy', 'stoner', 'comedies']),
 
     ('Crime', 
-    ['crime', 'detective', 'spy', 'noir', 'criminal', 'prison', 'slasher', 'gangster', 'whodunit', 'caper', 'heist', 'prison']),
+    ['crime', 'detective', 'spy', 'noir', 'criminal', 'prison', 'slasher', 'gangster', 'whodunit', 'caper', 'heist', 'prison', 'police']),
 
     ('Drama', 
     ['drama', 'tragicomedy', 'americana', 'tragedy']),
@@ -81,6 +81,72 @@ genre_wordsets = dict([
     ['gay', 'lgbt', 'race', 'black', 'women', 'feminist', 'disability', 'disabilities']),
 
     ('Religious', 
+    ['Hagiography', 'christian', 'cult', 'religious']),
+
+])
+
+additional_wordsets = dict([
+    ('silent', 
+    ['silent', 'goat']),
+
+    ('black and white', 
+    ['black-and-white']),
+
+    ('experimental', 
+    ['indie', 'short', 'art']),
+
+    ('animation', 
+    ['cartoon']),
+
+    ('action', 
+    ['swashbuckle', 'combat', 'martial', 'boxing', 'sword']),
+
+    ('comedy', 
+    ['slapstick', 'tragicomedy', 'stoner']),
+
+    ('crime', 
+    ['spy', 'criminal', 'prison', 'slasher', 'whodunit', 'criminal']),
+
+    ('drama', 
+    ['tragicomedy', 'americana', 'tragedy']),
+
+    ('documentary', 
+    ['documentary', 'anthropology', 'archives', 'environmental']),
+
+    ('fantasy', 
+    ['supernatural']),
+
+    ('family', 
+    ['family', 'children', 'christmas', 'school', 'holiday']),
+
+    ('historical', 
+    ['historical', 'history', 'biopic']),
+
+    ('horror', 
+    ['haunted']),
+
+    ('musical', 
+    ['musical', 'operetta', 'singing', 'opera', 'concert']),
+
+    ('science fiction', 
+    ['sci-fi', 'science-fiction']),
+
+    ('thriller', 
+    ['suspense']),
+
+    ('western', 
+    ['cowboy']),
+
+    ('propaganda', 
+    ['propaganda', 'patriotic']),
+
+    ('erotic', 
+    ['sex', 'adult', 'sexploitation', 'pornography']),
+
+    ('diversity', 
+    ['gay', 'lgbt', 'race', 'black', 'women', 'feminist', 'disability']),
+
+    ('religious', 
     ['Hagiography', 'christian', 'cult', 'religious']),
 
 ])
