@@ -120,7 +120,7 @@ additional_wordsets = dict([
     ['family', 'children', 'christmas', 'school', 'holiday']),
 
     ('historical', 
-    ['historical', 'history', 'biopic']),
+    ['historical', 'history', 'biopic', 'biography']),
 
     ('horror', 
     ['haunted']),
@@ -128,8 +128,8 @@ additional_wordsets = dict([
     ('musical', 
     ['musical', 'operetta', 'singing', 'opera', 'concert']),
 
-    ('science fiction', 
-    ['sci-fi', 'science-fiction']),
+    ('science-fiction', 
+    ['sci fi', 'sci-fi', 'science-fiction']),
 
     ('thriller', 
     ['suspense']),
@@ -148,5 +148,8 @@ additional_wordsets = dict([
 
     ('religious', 
     ['Hagiography', 'christian', 'cult', 'religious']),
+
+    ('war', 
+    ['war', 'military']),
 
 ])
