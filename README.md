@@ -11,3 +11,5 @@ closely linked together. This is equivalent to asking if major historical events
 this question, we also want to observe how films with a strong link to historical event have been received by the general public. To answer this we 
 will use the movie corpus dataset along with the IMDb database. Using NLP and statistic pipelines we will try to observe trends that can answer our 
 questions.
+
+
