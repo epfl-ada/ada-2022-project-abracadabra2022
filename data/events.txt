@@ -8,6 +8,9 @@ nuclear age, 1945,2022, war
 decolonialization, 1947,1971, human rights
 war by proxy(korea vietnam cuba afganistan), 1950,1975, war
 cold war,1947,1991,war
+first_movie_with_sound,1927,1927,technology
+colour_cinema,1901,1901,technology
+colour_cinema,1932,1932,technology
 space race, 1957,1969, war-technology
 radio_creation, 1914,1914, technology
 radio_wildly_used, 1930,1930, technology
