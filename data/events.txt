@@ -1,0 +1,22 @@
+WW1,1914,1918,war
+russian communist revolution,1917,1917,war
+economic depression,1929,1929, economic
+rise of dictatorships,1920,1940, politic
+WW2,1939,1945,war
+Holocaust,1942,1945, human rights
+nuclear age, 1945,2022, war
+decolonialization, 1947,1971, human rights
+war by proxy(korea vietnam cuba afganistan), 1950,1975, war
+cold war,1947,1991,war
+first_movie_with_sound,1927,1927,technology
+colour_cinema,1901,1901,technology
+colour_cinema,1932,1932,technology
+space race, 1957,1969, war-technology
+radio_creation, 1914,1914, technology
+radio_wildly_used, 1930,1930, technology
+television_creation,1935,1935, technology
+television_wildly_used,1960,1960, technology
+computers_creation, 1971,1971, technology
+computers_wildly_used, 1977,1977, technology
+internet_creation,1989,1989, technology 
+internet_wildly_used,1992,1992, technology 
