@@ -80,7 +80,7 @@ Example of features: Metagenres
 |   Bastien  | task1|
 |     | task2|
 |     | Develop the final text for the data story|
-|   Nicolas  | Step 1 : Metagenre creation and NLP|
+|   Nicolas  | Step 1 : Metagenre classification and NLP|
 |     | task2|
 |     | Develop the final text for the data story|
 |   Mohamed  | Github site building|
