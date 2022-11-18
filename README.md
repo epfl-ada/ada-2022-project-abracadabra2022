@@ -9,9 +9,9 @@ We will start by analyzing the speed of spread of the color cinema on black & wh
 
 If cinema is a mirror of society, did historical events influence cinema? If yes, how and when?
 
-    A: How quick did colors integrated our movies? Was this market penetration similar across genres? 
-    B: Does violence encourages people to watch violence or is laughter in cinema is acclaimed then more than ever?
-    C: Have did racism and terrorism's events impacted the integration of ethnic minority actors?
+   * A: How quick did colors integrated our movies? Was this market penetration similar across genres? 
+   * B: Does violence encourages people to watch violence or is laughter in cinema is acclaimed then more than ever?
+   * C: Have did racism and terrorism's events impacted the integration of ethnic minority actors?
 
 ## Proposed additional datasets
 
@@ -54,7 +54,7 @@ Example of features: Metagenres
 
 ### Step 5: Apply feature analysis to other themes
    - Human rights (E.g Civil Rights Act de 1964 in America)
-   - Political events (E.g )
+   - Political events
    - Thechnological events (E.g Popularization of the Internet, development of Netflix)
     
 
@@ -62,9 +62,9 @@ Example of features: Metagenres
 
 ## Proposed timeline
 
-- 25/11/22 
-- 02/12/22 
-- 09/12/22 
+- 25/11/22 Improve NLP and feature analysis / queries to Freebase 
+- 02/12/22 Do all tasks related to step 3
+- 09/12/22 Train the sentiment analysis
 - 16/12/22 Apply analysis to the other themes
 - 21/12/22 Github site building and Datastory redaction.
 - 23/12/22 Milestone 3 deadline.
@@ -75,14 +75,14 @@ Example of features: Metagenres
 | Student | Task   |
 |------|------|
 |   Alain  | Github site building|
-|     | task2|
+|     | Queries to Freebase and step 3|
 |     | Develop the final text for the data story|
-|   Bastien  | task1|
-|     | task2|
+|   Bastien  | Apply feature analysis to other themes|
+|     | Queries to Freebase and step 3|
 |     | Develop the final text for the data story|
-|   Nicolas  | Step 1 : Metagenre classification and NLP|
-|     | task2|
+|   Nicolas  | Apply feature analysis to other themes|
+|     | Improve NLP|
 |     | Develop the final text for the data story|
 |   Mohamed  | Github site building|
-|     | task2|
-|     | Develop the final text for the data story|
+|     | Improve feature analysis|
+|     | Develop a sentiment analysis|
