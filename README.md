@@ -25,8 +25,11 @@ If cinema is a mirror of society, did historical events influence cinema? If yes
 ## Methods
 
 ### Step 1: Natural Language Processing: Metagenre Creation
-
-- NICO 
+- Harmonization of string format
+- Extraction of subgenres from incoherent data formats
+- Metagenre and subgenre table creation from the web
+- Subgenre formating with stemming for similarity detection
+- Robust Metagenre classification
 
 ### Step 2: Time Series: Feature Analysis
 Example of features: Metagenres
@@ -77,7 +80,7 @@ Example of features: Metagenres
 |   Bastien  | task1|
 |     | task2|
 |     | Develop the final text for the data story|
-|   Nicolas  | task1|
+|   Nicolas  | Step 1 : Metagenre creation and NLP|
 |     | task2|
 |     | Develop the final text for the data story|
 |   Mohamed  | Github site building|
