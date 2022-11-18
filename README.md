@@ -9,9 +9,9 @@ We will start by analyzing the speed of spread of the color cinema on black & wh
 
 If cinema is a mirror of society, did historical events influence cinema? If yes, how and when?
 
-A: How quick did colors integrated our movies? Was this market penetration similar across genres? 
-B: Does violence encourages people to watch violence or is laughter in cinema is acclaimed then more than ever?
-C: Have did racism and terrorism's events impacted the integration of ethnic minority actors?
+    A: How quick did colors integrated our movies? Was this market penetration similar across genres? 
+    B: Does violence encourages people to watch violence or is laughter in cinema is acclaimed then more than ever?
+    C: Have did racism and terrorism's events impacted the integration of ethnic minority actors?
 
 ## Proposed additional datasets
 
@@ -19,6 +19,8 @@ C: Have did racism and terrorism's events impacted the integration of ethnic min
  - **Datasets 2:[IMDb](https://datasets.imdbws.com/)** the following two datasets from IMDb:
       - "title.ratings" contains the IMDb rating and votes information for titles of the movies.
       - "title.basics" to make the link with the dataset "title.ratings".  It gives the alphanumeric unique  identifier of the title and the titles of the movies.
+ - **Dataset 3:** queries to Freebase. Dataframe with the Actor ethnicity codes(Freebase ID) and their corresponding name.
+ 
 
 ## Methods
 
@@ -38,35 +40,46 @@ Example of features: Metagenres
 - Calculate the percent change to analyze the variation of the genres between windows
 - To study the trend of a certain genre, use the trend/seasonality/residual decomposition and use the trend
 
-### Step 3: Survey the impact of segregation-related events on the integration of ethnic minority actors to answer question C.
-- 
--
+### Step 3: Survey the impact of segregation-related events on the integration of ethnic minority actors.
+- Queries to Freebase to get access to the dataset 3
+- Feature analysis to study a trend of a certain Actor ethnicity 
+- Link the trend to the corresponding segregation-related event
 
+### Step 4: Sentiment analysis 
+- Extracting feelings from plot summaries using an existing NLP model
+- Use these feelings as new metadata
 
-### Step 4: Github site building and Datastory redaction.
+### Step 5: Apply feature analysis to other themes
+   - Human rights (E.g Civil Rights Act de 1964 in America)
+   - Political events (E.g )
+   - Thechnological events (E.g Popularization of the Internet, development of Netflix)
+    
+
+### Step 6: Github site building and Datastory redaction.
 
 ## Proposed timeline
 
-- 07/12/22
-- 09/12/22
-- 14/12/22
-- 16/12/22 
+- 25/11/22 
+- 02/12/22 
+- 09/12/22 
+- 16/12/22 Apply analysis to the other themes
 - 21/12/22 Github site building and Datastory redaction.
 - 23/12/22 Milestone 3 deadline.
+
 
 ## Organization within the team
 
 | Student | Task   |
 |------|------|
-|   @bastlan3  | task1|
+|   Alain  | Github site building|
 |     | task2|
-|     | task3|
-|   @duchoud  | task1|
+|     | Develop the final text for the data story|
+|   Bastien  | task1|
 |     | task2|
-|     | task3|
-|   a  | task1|
+|     | Develop the final text for the data story|
+|   Nicolas  | task1|
 |     | task2|
-|     | task3|
-|   @Termote  | task1|
+|     | Develop the final text for the data story|
+|   Mohamed  | Github site building|
 |     | task2|
-|     | task3|
+|     | Develop the final text for the data story|
