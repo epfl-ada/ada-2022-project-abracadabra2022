@@ -1,0 +1,141 @@
+13  ;  Palestine
+347  ;  Judaea
+347  ;  Palestine
+1408  ;  West Bank
+1881  ;  Ramallah
+1881  ;  West Bank
+1936  ;  Shechem
+2983  ;  Andaman
+2992  ;  Jericho
+3211  ;  West Bank
+3867  ;  Siam  ;  Gulf of Thailand
+4155  ;  Palestine
+6428  ;  Palestine
+6562  ;  Siam
+6850  ;  Palestine
+6944  ;  Ramallah
+7495  ;  Palestine
+7668  ;  Siam
+11516  ;  Palestine
+12030  ;  Palestine
+12167  ;  Palestine
+13307  ;  Palestine
+13571  ;  Palestine
+13843  ;  Ushguli
+14399  ;  Palestine
+14590  ;  Gaza Strip
+14590  ;  Nablus
+14590  ;  Kalandia
+15659  ;  Henan
+15794  ;  West Bank
+15888  ;  Palestine
+16074  ;  Nablus
+16399  ;  Jericho
+18086  ;  Palestine
+18574  ;  Siam
+19021  ;  Palestine
+19454  ;  Siam
+19556  ;  Palau
+19574  ;  Palestine
+19906  ;  Siam
+20546  ;  West Bank
+20908  ;  Palau
+20546  ;  West Bank
+20908  ;  Palau
+21700  ;  Palestine
+21707  ;  Siam
+22142  ;  Kitezh
+22447  ;  Siam
+22573  ;  Siam
+22721  ;  Siam
+22852  ;  Bil’in
+23303  ;  Siam
+23588  ;  Siam
+23928  ;  Siam
+27260  ;  Siam  
+27731  ;  Judah
+27731  ;  Judah
+28757  ;  Palestine
+31484  ;  Palestine
+31592  ;  Palau
+31724  ;  Siam
+32511  ;  Mediterraneo
+32562  ;  Siam
+33045  ;  West Bank
+33846  ;  Andaman
+34455  ;  West Bank
+34654  ;  East London
+34455  ;  West Bank
+35402  ;  Andaman
+35649  ;  Palestine
+36996  ;  West Bank
+36996  ;  Palestine
+37540  ;  Palau
+37540  ;  Palau
+37652  ;  Palestine
+38439  ;  Palestine
+39077  ;  Palestine
+39276  ;  Palestine
+39919  ;  Palestine
+40489  ;  Gilgal
+40493  ;  Jericho
+40684  ;  Siam
+40723  ;  Kitezh
+40747  ;  Nablus
+40747  ;  West Bank
+41400  ;  Siam
+41680  ;  Jericho
+41806  ;  Jericho
+
+
+
+South - West Africa
+Republica De Los Cocos
+Su Chou
+U.s.
+Thonnurkara Village
+Hidden Grass Village
+Madhavgarh Village
+St Godric
+Rivet Town
+East Prussia
+Baldwin Village
+Natade Village
+Southwest Province
+Paris
+Pixie Village
+Goose Town
+St. Luchas
+Pedestrian Village
+Egypt
+Saint Louie
+Ark De Grande City
+Rio De Janerio
+East Bengal
+Tome Village
+Vila De Santiago
+Goat Village
+Sitarampuram Village
+Los Angeles
+G.e.l.f. Colony
+Wushe Village
+'N.y.p.d.'
+Goa
+St. Louis
+Muluma Village
+Tallapaka Village
+Eeast Village
+Beirut
+Karakura Town
+Perumalpuram Village
+East Prussia
+New York City.{{cite',)
+East Bengal
+Vizag
+Dhulia Village
+Thottakkattukara Village
+Hollywood
+Rio Grande Sul
+Qui Gong
+P'ohang - Dong
+Muttam Village
