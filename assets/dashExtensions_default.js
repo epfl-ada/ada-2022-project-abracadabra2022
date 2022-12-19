@@ -5,19 +5,19 @@ window.dashExtensions = Object.assign({}, window.dashExtensions, {
                 min,
                 max,
                 colorscale,
-                circleOptions,
+                circleOpt_prodions,
                 colorProp
             } = context.props.hideout;
             const csc = chroma.scale(colorscale).domain([min, max]); // chroma lib to construct colorscale
-            circleOptions.fillColor = csc(feature.properties[colorProp]); // set color based on color prop.
-            return L.circleMarker(latlng, circleOptions); // sender a simple circle marker.
+            circleOpt_prodions.fillColor = csc(feature.properties[colorProp]); // set color based on color prop.
+            return L.circleMarker(latlng, circleOpt_prodions); // sender a simple circle marker.
         },
         function1: function(feature, latlng, index, context) {
             const {
                 min,
                 max,
                 colorscale,
-                circleOptions,
+                circleOpt_prodions,
                 colorProp
             } = context.props.hideout;
             const csc = chroma.scale(colorscale).domain([min, max]);
@@ -54,6 +54,47 @@ window.dashExtensions = Object.assign({}, window.dashExtensions, {
             return L.circleMarker(latlng, circleOptions); // sender a simple circle marker.
         },
         function3: function(feature, latlng, index, context) {
+            const {
+                min,
+                max,
+                colorscale,
+                circleOptions,
+                colorProp
+            } = context.props.hideout;
+            const csc = chroma.scale(colorscale).domain([min, max]);
+
+            // Set color based on mean value of leaves.
+            const leaves = index.getLeaves(feature.properties.cluster_id);
+            let valueSum = 0;
+            for (let i = 0; i < leaves.length; ++i) {
+                valueSum += leaves[i].properties[colorProp]
+            }
+            const valueMean = valueSum / leaves.length;
+
+            // Render a circle with the number of leaves written in the center.
+            const icon = L.divIcon.scatter({
+                html: '<div style="background-color:white;"><span>' + feature.properties.point_count_abbreviated + '</span></div>',
+                className: "marker-cluster",
+                iconSize: L.point(40, 40),
+                color: csc(valueMean)
+            });
+            return L.marker(latlng, {
+                icon: icon
+            })
+        },
+        function4: function(feature, latlng, context) {
+            const {
+                min,
+                max,
+                colorscale,
+                circleOptions,
+                colorProp
+            } = context.props.hideout;
+            const csc = chroma.scale(colorscale).domain([min, max]); // chroma lib to construct colorscale
+            circleOptions.fillColor = csc(feature.properties[colorProp]); // set color based on color prop.
+            return L.circleMarker(latlng, circleOptions); // sender a simple circle marker.
+        },
+        function5: function(feature, latlng, index, context) {
             const {
                 min,
                 max,
