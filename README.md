@@ -119,7 +119,7 @@ If cinema is a mirror of society, did wars influence cinema? If yes, how and whe
 
 #### External libraries
 
-##### Built in librairies
+##### Built in librairy
 tqdm
 
 ##### Pip libraires
