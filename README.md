@@ -149,19 +149,25 @@ geopandas, geopy, requests
 ##### Other libraries
 csv, dateutil.relativedelta, utils.genres, pandas_profiling
 
+#### Pre-Processing
+
+
+
+#### Feature extraction
+
+
+
 ## Organization within the team
 
 | Student | Task   |
 |------|------|
-|   Alain  | |
-|     | |
-|     ||
-|   Bastien  | |
-|     | |
-|     | |
-|   Nicolas  | |
-|     | |
-|     | |
-|   Mohamed  | |
-|     | |
-|     | |
+|   Alain  | Web site|
+|     |  Data story|
+|     |ReadMe|
+|   Bastien  | Heatmap|
+|     | Wordcloud|
+|   Nicolas  | Interactive map|
+|     | Violin plot|
+|   Mohamed  | War map|
+|     | Cosine similarity|
+
