@@ -1,5 +1,9 @@
 # Back to the Future: Cinema is the new DeLorean
 
+## Data Story
+
+[Go to the website!](https://duchoud.github.io/war_and_movies/)
+
 ## Abstract
 "Cinema is an edited reality and a mirror of society."
 Cinema has been depicted as an edited reality and even a mirror of society, and society has endured in the past century numerous events: technological advances, wars, human rights movements etc. These historical events have influenced our society, and what we are investigating is whether these events have impacted the cinematic industry, and if yes, how.  
