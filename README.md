@@ -91,7 +91,7 @@ Example of features: Metagenres
 
 ## Data Story
 
-[Go to the website!](https://duchoud.github.io/war_and_movies/)
+[Go to the website!](https://duchoud.github.io/adawebsite/)
 
 ## Abstract
 
@@ -161,8 +161,8 @@ The heatmaps are generated using the metadata's genres, and the sentiment analys
 ### Wordclouds
 The wordclouds are generated using the movie plot  and metadata datasets to be able to have per-genre wordclouds. To achieve wordcloud we clean the data and tokenize it, we also perform a sentiment analysis using TextBlob to have wordclouds of only positive or negative words. Having some data in the right format we then select the time interval wished, and then use the WordCloud library to find the most important words and create the wordcloud. We also added a list of words that did not interest us which mainly consist of names or number.
 
-#### Feature extraction
-
+### Feature extraction
+Use queries to wikidata to extract the genres corresponding to the freebase id and build a new dataset
 
 
 ## Organization within the team
