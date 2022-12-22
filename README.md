@@ -152,6 +152,14 @@ csv, dateutil.relativedelta, utils.genres, pandas_profiling
 #### Pre-Processing
 
 
+### Data preparation:
+during data exploration we realised that there was many genre that were extremely similar or 2 genre joined together. To tackle this problem we used stemming to find similar genres, and then applied functions to clean the genre and separate the ones that needed to be. This process allowed us to end up with 24 genres that we exploded into dummy variables.
+
+### Heatmaps:
+The heatmaps are generated using the metadata's genres, and the sentiment analysis of the movie plots using the VADER library that outputs among other things a score between -1 and 1 per movie plot to show it's negativity or positivity. Once these two datasets are joined using the movie ids we resample the data per release year and show the average sentiment per genre per year.
+
+### Wordclouds
+The wordclouds are generated using the movie plot  and metadata datasets to be able to have per-genre wordclouds. To achieve wordcloud we clean the data and tokenize it, we also perform a sentiment analysis using TextBlob to have wordclouds of only positive or negative words. Having some data in the right format we then select the time interval wished, and then use the WordCloud library to find the most important words and create the wordcloud. We also added a list of words that did not interest us which mainly consist of names or number.
 
 #### Feature extraction
 
