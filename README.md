@@ -1,4 +1,4 @@
-# Back to the Future: Cinema is the new DeLorean
+# From Frontline to Frontrow
 
 ## Abstract
 "Cinema is an edited reality and a mirror of society."
