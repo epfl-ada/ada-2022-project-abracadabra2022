@@ -169,5 +169,5 @@ csv, dateutil.relativedelta, utils.genres, pandas_profiling
 |   Nicolas  | Interactive map|
 |     | Violin plot|
 |   Mohamed  | War map|
-|     | Cosine similarity|
+|     | NLP|
 
