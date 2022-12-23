@@ -96,3 +96,6 @@ While extracting countries we also extracted the general sentiment of the synops
 |     | Interactive World map - Jupyter code and site html deployment -|
 |   Mohamed  | Interactive War map|
 |     | Data story text & graph analysis|
+|     | Data Cleaning NLP |
+|     | Time Series - EDA |
+
