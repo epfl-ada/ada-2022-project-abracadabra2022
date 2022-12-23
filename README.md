@@ -85,7 +85,6 @@ While extracting countries we also extracted the general sentiment of the synops
 |------|------|
 |   Alain  | Web site|
 |     |  Data story|
-|     |ReadMe|
 |   Bastien  | Heatmap|
 |     | Wordcloud|
 |   Nicolas  | Data preparation & genre extraction (NLP) |
@@ -94,6 +93,5 @@ While extracting countries we also extracted the general sentiment of the synops
 |  | Interactive sentiment graph & server setup |
 |  | Interactive World map - Jupyter code and site html deployment -|
 |   Mohamed  | War map|
-|     | NLP|
-|     | Data story text and analysis |
+|     | Data story text and graph analysis |
 
