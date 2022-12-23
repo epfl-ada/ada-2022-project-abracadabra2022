@@ -61,7 +61,7 @@ geopandas, geopy, requests
 csv, dateutil.relativedelta, utils.genres, pandas_profiling
 
 ### Data preparation:
-during data exploration we realised that there was many genre that were extremely similar or 2 genre joined together. To tackle this problem we used stemming to find similar genres, and then applied functions to clean the genre and separate the ones that needed to be. This process allowed us to end up with 24 genres that we exploded into dummy variables.
+During data exploration we realized that there were many genre inputs that had similar names (ex. romace, romantic), multiple genres in the same text (ex. romantic-comedy) or specific sub-genres(ex. Slapstick). To tackle this problem we used stemming to find similar genres, and then applied functions to clean the genre and separate them in common genres. This process allowed us to end up with 24 genres that we exploded into dummy variables.
 
 ### Heatmaps:
 The heatmaps are generated using the metadata's genres, and the sentiment analysis of the movie plots using the VADER library that outputs among other things a score between -1 and 1 per movie plot to show it's negativity or positivity. Once these two datasets are joined using the movie ids we resample the data per release year and show the average sentiment per genre per year.
@@ -71,6 +71,12 @@ The wordclouds are generated using the movie plot  and metadata datasets to be a
 
 ### Feature extraction
 Use queries to wikidata to extract the genres corresponding to the freebase id and build a new dataset
+
+### Film location extraction
+After analysis, we found that the confusing column "Movie countries" present in the CMU movie corpus was torn between Movie filming location and country of production team. This made it very hard to find reliably the filming location of these movies. In order to circumvent this problem we decided to analyze each synopsys and extract the countries mentioned. In order to do so we used novel Named Entity Recognition (NER) for this task. More specifically the transformer based pipelines. We then feed these locations to a geo-locator in order to find the country of these locations.
+
+### Sentiment analysis
+While extracting countries we also extracted the general sentiment of the synopsys, as well as the individual sentence sentiment for each country mention. This indicator therefore showed the general sentiment of the movie toward specific countries. Apart from the number of times countries were mentioned in movies, we also had the sentiment of these mentions and their evolutions through time.
 
 
 ## Organization within the team
@@ -82,8 +88,12 @@ Use queries to wikidata to extract the genres corresponding to the freebase id a
 |     |ReadMe|
 |   Bastien  | Heatmap|
 |     | Wordcloud|
-|   Nicolas  | Interactive map|
-|     | Violin plot|
+|   Nicolas  | Data preparation & genre extraction (NLP) |
+|  | Film location extraction from synopsys |
+|  | Sentiment analysis |
+|  | Interactive sentiment graph & server setup |
+|  | Interactive World map - Jupyter code and site html deployment -|
 |   Mohamed  | War map|
 |     | NLP|
+|     | Data story text and analysis |
 
