@@ -87,13 +87,14 @@ While extracting countries we also extracted the general sentiment of the synops
 |     |  Data story|
 |   Bastien  | Jupyter Notebook text |
 |     | Genre evolution analysis |
+|     | IMdB link and analysis |
 |     | Heatmap |
 |     | Wordcloud |
-|   Nicolas  | Data preparation & genre extraction (NLP) |
-|  | Film location extraction from synopsys |
-|  | Sentiment analysis |
-|  | Interactive sentiment graph & server setup |
-|  | Interactive World map - Jupyter code and site html deployment -|
+|   Nicolas  | Genre extraction (NLP) |
+|     | Film location extraction from synopsys |
+|     | Sentiment analysis |
+|     | Interactive sentiment graph & server setup |
+|     | Interactive World map - Jupyter code and site html deployment -|
 |   Mohamed  | Interactive War map|
 |     | Data story text and graph analysis |
 
