@@ -1,33 +1,33 @@
 ﻿countries,region
 Afghanistan,Middle East
-Albania,Soviet union
+Albania,Eastern Europe
 Algeria,Africa
 American Samoa,Oceania
-Andorra,PIGS
+Andorra,Western Europe
 Angola,Africa
 Antigua and Barbuda,North America
 Argentina,Latin America
-Armenia,Soviet union
+Armenia,Eastern Europe
 Aruba,North America
 Australia,Oceania
-Austria,Continental Europe
-Azerbaijan,Soviet union
+Austria,Eastern Europe
+Azerbaijan,Eastern Europe
 The Bahamas,North America
 Bahrain,Middle East
 Bangladesh,South Asia
 Barbados,North America
-Belarus,Soviet union
-Belgium,Continental Europe
+Belarus,Eastern Europe
+Belgium,Western Europe
 Belize,Latin America
 Benin,Africa
 Bermuda,North America
 Bhutan,South Asia
 Bolivia,Latin America
-Bosnia and Herzegovina,Soviet union
+Bosnia and Herzegovina,Eastern Europe
 Botswana,Africa
 Brazil,Latin America
 Brunei,South East Asia
-Bulgaria,Soviet union
+Bulgaria,Eastern Europe
 Burkina Faso,Africa
 Burundi,Africa
 Cabo Verde,Africa
@@ -37,7 +37,7 @@ Canada,North America
 Cayman Islands,North America
 Central African Republic,Africa
 Chad,Africa
-Channel Islands,Continental Europe
+Channel Islands,Western Europe
 Chile,Latin America
 China,East Asia
 Colombia,Latin America
@@ -45,11 +45,11 @@ Comoros,Africa
 Congo,Africa
 Costa Rica,Latin America
 Côte D'Ivoire,Africa
-Croatia,Soviet union
+Croatia,Eastern Europe
 Cuba,Latin America
 Curaçao,Latin America
-Cyprus,Soviet union
-Czech Republic,Soviet union
+Cyprus,Eastern Europe
+Czech Republic,Eastern Europe
 Dem. People's Rep. Korea,North Asia
 Dem. Rep. Congo,Africa
 Denmark,Scandinavia
@@ -61,20 +61,20 @@ Egypt,Africa
 El Salvador,Latin America
 Equatorial Guinea,Africa
 Eritrea,Africa
-Estonia,Soviet union
+Estonia,Eastern Europe
 Ethiopia,Africa
-Faeroe Islands,Continental Europe
+Faeroe Islands,Western Europe
 Fiji,Oceania
 Finland,Scandinavia
-France,Continental Europe
+France,Western Europe
 French Guiana,Latin America
 French Polynesia,Oceania
 Gabon,Africa
 The Gambia,Africa
-Georgia,Soviet union
-Germany,Continental Europe
+Georgia,Eastern Europe
+Germany,Western Europe
 Ghana,Africa
-Greece,PIGS
+Greece,Western Europe
 Greenland,North America
 Grenada,North America
 Guadeloupe (French),Latin America
@@ -86,59 +86,59 @@ Guyana,Latin America
 Haiti,Latin America
 Honduras,Latin America
 "Hong Kong SAR, China",East Asia
-Hungary,Soviet union
+Hungary,Eastern Europe
 Iceland,Scandinavia
 India,South Asia
 Indonesia,South East Asia
 Iran,Middle East
 Iraq,Middle East
-Ireland,Continental Europe
-Isle of Man,Continental Europe
-Israel,PIGS
-Italy,PIGS
+Ireland,Western Europe
+Isle of Man,Western Europe
+Israel,Western Europe
+Italy,Western Europe
 Jamaica,North America
 Japan,North Asia
 Jordan,Middle East
-Kazakhstan,Soviet union
+Kazakhstan,Eastern Europe
 Kenya,Africa
 Kiribati,Oceania
 Korea,North Asia
-Kosovo,Soviet union
+Kosovo,Eastern Europe
 Kuwait,Middle East
-Kyrgyz Republic,Soviet union
+Kyrgyz Republic,Eastern Europe
 Lao PDR,South East Asia
-Latvia,Soviet union
+Latvia,Eastern Europe
 Lebanon,Middle East
 Lesotho,Africa
 Liberia,Africa
 Libya,Africa
-Liechtenstein,Continental Europe
-Lithuania,Soviet union
-Luxembourg,Continental Europe
+Liechtenstein,Western Europe
+Lithuania,Eastern Europe
+Luxembourg,Western Europe
 "Macao SAR, China",East Asia
-Macedonia,Soviet union
+Macedonia,Eastern Europe
 Madagascar,Africa
 Malawi,Africa
 Malaysia,South East Asia
 Maldives,South Asia
 Mali,Africa
-Malta,PIGS
+Malta,Western Europe
 Marshall Islands,Oceania
 Martinique (French),Latin America
 Mauritania,Africa
 Mauritius,Africa
 Mexico,Latin America
 Micronesia,Oceania
-Moldova,Soviet union
-Monaco,PIGS
+Moldova,Eastern Europe
+Monaco,Western Europe
 Mongolia,East Asia
-Montenegro,Soviet union
+Montenegro,Eastern Europe
 Morocco,Africa
 Mozambique,Africa
 Myanmar,South East Asia
 Namibia,Africa
 Nepal,South Asia
-Netherlands,Continental Europe
+Netherlands,Western Europe
 New Caledonia,Oceania
 New Zealand,Oceania
 Nicaragua,Latin America
@@ -155,31 +155,31 @@ Papua New Guinea,Oceania
 Paraguay,Latin America
 Peru,Latin America
 Philippines,South East Asia
-Poland,Soviet union
-Portugal,PIGS
+Poland,Eastern Europe
+Portugal,Western Europe
 Puerto Rico,Latin America
 Qatar,Middle East
-Reunion (French),Africa
-Soviet union,Soviet union
-Russia,Soviet union
+ReEurope (French),Africa
+Eastern Europe,Eastern Europe
+Russia,Eastern Europe
 Rwanda,Africa
 Samoa,Oceania
-San Marino,PIGS
+San Marino,Western Europe
 São Tomé and Principe,Africa
 Saudi Arabia,Middle East
 Senegal,Africa
-Serbia,Soviet union
+Serbia,Eastern Europe
 Seychelles,Africa
 Sierra Leone,Africa
 Singapore,South East Asia
 Sint Maarten (Dutch part),North America
-Slovak Republic,Soviet union
-Slovenia,Soviet union
+Slovak Republic,Eastern Europe
+Slovenia,Eastern Europe
 Solomon Islands,Oceania
 Somalia,Africa
 South Africa,Africa
 South Sudan,Africa
-Spain,PIGS
+Spain,Western Europe
 Sri Lanka,South Asia
 St. Kitts and Nevis,North America
 St. Lucia,North America
@@ -189,10 +189,10 @@ Sudan,Africa
 Suriname,Latin America
 Swaziland,Africa
 Sweden,Scandinavia
-Switzerland,Continental Europe
+Switzerland,Western Europe
 Syrian Arab Republic,Middle East
 Taiwan,East Asia
-Tajikistan,Soviet union
+Tajikistan,Eastern Europe
 Tanzania,Africa
 Thailand,South East Asia
 Timor-Leste,South East Asia
@@ -200,19 +200,19 @@ Togo,Africa
 Tonga,Oceania
 Trinidad and Tobago,North America
 Tunisia,Africa
-Turkey,Soviet union
-Turkmenistan,Soviet union
+Turkey,Eastern Europe
+Turkmenistan,Eastern Europe
 Turks and Caicos Islands,North America
 Tuvalu,Oceania
 Uganda,Africa
-Ukraine,Soviet union
+Ukraine,Eastern Europe
 United Arab Emirates,Middle East
-United Kingdom,Continental Europe
+United Kingdom,Western Europe
 United States,North America
 Uruguay,Latin America
-Uzbekistan,Soviet union
+Uzbekistan,Eastern Europe
 Vanuatu,Oceania
-Vatican,PIGS
+Vatican,Western Europe
 Venezuela,Latin America
 Vietnam,South East Asia
 Virgin Islands,North America
