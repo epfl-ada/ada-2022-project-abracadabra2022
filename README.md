@@ -60,9 +60,6 @@ geopandas, geopy, requests
 ##### Other libraries
 csv, dateutil.relativedelta, utils.genres, pandas_profiling
 
-#### Pre-Processing
-
-
 ### Data preparation:
 during data exploration we realised that there was many genre that were extremely similar or 2 genre joined together. To tackle this problem we used stemming to find similar genres, and then applied functions to clean the genre and separate the ones that needed to be. This process allowed us to end up with 24 genres that we exploded into dummy variables.
 
