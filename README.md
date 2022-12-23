@@ -84,7 +84,6 @@ While extracting countries we also extracted the general sentiment of the synops
 | Student | Task   |
 |------|------|
 |   Alain  | Web site deployment|
-|     |  Data story|
 |   Bastien  | Jupyter Notebook text |
 |     | Genre evolution analysis |
 |     | IMdB link and analysis |
@@ -96,5 +95,4 @@ While extracting countries we also extracted the general sentiment of the synops
 |     | Interactive sentiment graph & server setup |
 |     | Interactive World map - Jupyter code and site html deployment -|
 |   Mohamed  | Interactive War map|
-|     | Data story text |
-|     | Data story Graph analysis |
+|     | Data story text & graph analysis|
