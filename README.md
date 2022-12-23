@@ -24,7 +24,6 @@ If cinema is a mirror of society, did wars influence cinema? If yes, how and whe
  - **Datasets 2:[IMDb](https://datasets.imdbws.com/)** the following two datasets from IMDb:
       - "title.ratings" contains the IMDb rating and votes information for titles of the movies.
       - "title.basics" to make the link with the dataset "title.ratings".  It gives the alphanumeric unique  identifier of the title and the titles of the movies.
- - **Dataset 3:** queries to Freebase. Dataframe with the Actor ethnicity codes(Freebase ID) and their corresponding name.
  
 ## Methods
 
