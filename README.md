@@ -15,8 +15,8 @@ We will start by introducing the few wars we will be looking at. Then we will se
 If cinema is a mirror of society, did wars influence cinema? If yes, how and when?
 
    * A:  Does war have a cultural impact and more specifically on movies?
-   * B:  There are no winners in wars. Is it true in movies?
-   * C:  Wars affect the peception that we have to certain movies, but does it also affect our perception of movie genres itself? 
+   * B:  How does war influence ou perceptions on movies? Does it influence on geopolitics?
+   * C:  How has war influence on genres more specifically on genre trends ?
    
 ## Proposed additional datasets
 
